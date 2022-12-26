@@ -1,2 +1,2 @@
-Name: Sneha
-age : 26
+Name:
+age :
